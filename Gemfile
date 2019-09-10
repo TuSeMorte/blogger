@@ -30,6 +30,10 @@ gem 'jbuilder', '~> 2.5'
 #Paper Clip
 gem "paperclip"
 
+#Sorcery Authentication
+gem "sorcery"
+
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
